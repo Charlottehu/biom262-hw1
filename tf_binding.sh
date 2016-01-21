@@ -30,3 +30,4 @@ module load biotools
 touch gencode.v19.annotation.chr22.transcript.promoter.nfkb.fasta
 bedtools getfasta -s -fi GRCh37.p13.chr22.fa -bed gencode.v19.annotation.chr22.transcript.promoter.nfkb.gtf -fo gencode.v19.annotation.chr22.transcript.promoter.nfkb.fasta
 
+#"Hello I am a message in standard error (stderr)"
